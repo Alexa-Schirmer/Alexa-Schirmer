@@ -1,5 +1,5 @@
 👋 Hi, I’m @Alexa-Schirmer
-👀 I’m interested in data analysis, Python programming,.
+👀 I’m interested in all things Data analytics and Python programming.
 🌱 I’m currently expanding my SQL & Python Skills.
 💞️ I’m looking to collaborate on data-driven projects and Python-based applications.
 📫 How to reach me: [alexa_schirmer@hotmail.com] or connect with me on LinkedIn.
