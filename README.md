@@ -1,4 +1,4 @@
-👋 Hi, I’m @Alexa-Schirmer
+👋 Hi, I’m Alexa Quinn @Alexa-Schirmer
 
 👀 I’m interested in all things Data analytics and Python programming.
 🌱 I’m currently expanding my SQL & Python Skills.
